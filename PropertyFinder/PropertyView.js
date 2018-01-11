@@ -1,3 +1,8 @@
+//All code taken from https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript
+//Tutorial followed on React-Native
+//Mahnoor Maqsood
+//January 2018
+
 'use strict';
 
 import React, { Component } from 'react'
